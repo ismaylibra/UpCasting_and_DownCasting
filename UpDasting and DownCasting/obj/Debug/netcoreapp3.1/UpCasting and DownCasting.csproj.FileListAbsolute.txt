@@ -1,0 +1,14 @@
+C:\Users\ASUS\Desktop\C# tasks\UpDasting and DownCasting\UpDasting and DownCasting\bin\Debug\netcoreapp3.1\UpCasting and DownCasting.exe
+C:\Users\ASUS\Desktop\C# tasks\UpDasting and DownCasting\UpDasting and DownCasting\bin\Debug\netcoreapp3.1\UpCasting and DownCasting.deps.json
+C:\Users\ASUS\Desktop\C# tasks\UpDasting and DownCasting\UpDasting and DownCasting\bin\Debug\netcoreapp3.1\UpCasting and DownCasting.runtimeconfig.json
+C:\Users\ASUS\Desktop\C# tasks\UpDasting and DownCasting\UpDasting and DownCasting\bin\Debug\netcoreapp3.1\UpCasting and DownCasting.runtimeconfig.dev.json
+C:\Users\ASUS\Desktop\C# tasks\UpDasting and DownCasting\UpDasting and DownCasting\bin\Debug\netcoreapp3.1\UpCasting and DownCasting.dll
+C:\Users\ASUS\Desktop\C# tasks\UpDasting and DownCasting\UpDasting and DownCasting\bin\Debug\netcoreapp3.1\UpCasting and DownCasting.pdb
+C:\Users\ASUS\Desktop\C# tasks\UpDasting and DownCasting\UpDasting and DownCasting\obj\Debug\netcoreapp3.1\UpCasting and DownCasting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\C# tasks\UpDasting and DownCasting\UpDasting and DownCasting\obj\Debug\netcoreapp3.1\UpCasting and DownCasting.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\C# tasks\UpDasting and DownCasting\UpDasting and DownCasting\obj\Debug\netcoreapp3.1\UpCasting and DownCasting.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\C# tasks\UpDasting and DownCasting\UpDasting and DownCasting\obj\Debug\netcoreapp3.1\UpCasting and DownCasting.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\C# tasks\UpDasting and DownCasting\UpDasting and DownCasting\obj\Debug\netcoreapp3.1\UpCasting and DownCasting.dll
+C:\Users\ASUS\Desktop\C# tasks\UpDasting and DownCasting\UpDasting and DownCasting\obj\Debug\netcoreapp3.1\UpCasting and DownCasting.pdb
+C:\Users\ASUS\Desktop\C# tasks\UpDasting and DownCasting\UpDasting and DownCasting\obj\Debug\netcoreapp3.1\UpCasting and DownCasting.genruntimeconfig.cache
+C:\Users\ASUS\Desktop\C# tasks\UpDasting and DownCasting\UpDasting and DownCasting\obj\Debug\netcoreapp3.1\UpCasting and DownCasting.csproj.AssemblyReference.cache
